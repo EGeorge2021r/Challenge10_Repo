@@ -4,13 +4,13 @@ Crypto Clustering - Combining financial Python programming with unsupervised lea
 # User Story
 Role: Advisor FinTech Consulting Firm
 
-Goal: The project goal is combine financial Python programming with unsupervised learning create a Jupyter notebook that clusters cryptocurrencies by their performance in different time periods and also plot the results so that you can visually show the performance to the board
+Goal: The project goal is to combine financial Python programming with unsupervised learning to create a Jupyter notebook that clusters cryptocurrencies by their performance in different time periods and also plot the results and visually show the performance to the board
 
-Reason: As competitors are fiece, I am proposing a novel approach to assembling investment portfolios that are based on cryptocurrencies. Instead of basing my proposal on only returns and volatility, I am including other factors that might impact the crypto market—leading to better performance for my portfolio. I am also creating a prototype for submitting my crypto portfolio proposal to the company board of directors.
+Reason: As competitors are fiece, a novel approach is being proposed to assemble investment portfolios that are based on cryptocurrencies. Instead of basing the proposal on only returns and volatility, other factors that might impact the crypto market—leading to better performance of the portfolio are included. Also included in this package is the creation of a prototype for submitting crypto portfolio proposal to the company board of directors.
 
 # General information 
-This project is closned in the GitHub repository and the command line is used to add the relevant file along with commit messages.
-Each code line also has relevant notes that are easily understood commented out 
+This project is cloned in the GitHub repository using the command line to add the relevant codes along with commit messages.
+Each code line also has relevant commented out notes that are easily understood  
 
 # Technology
 Jupyter notebook that contains data preparation, analysis, and visualizations 
