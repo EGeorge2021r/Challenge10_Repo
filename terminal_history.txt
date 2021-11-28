@@ -1,3 +1,11 @@
+   77  python listing_assets.py
+   78  ls
+   79  cd listpwd
+   80  pwd
+   81  cd 02_lising_Assets
+   82  conda deactivatedev
+   83  conda deactivate
+   84  ls
    85  cd Fintech\ workspace/
    86  ~
    87  tech_stocks_python.py
@@ -32,19 +40,11 @@
   116  cd one
   117  exit
   118  cd OneDrive
-  119  cd Desktop
+  119  cd Desktop/
   120  cd Fintech/
-  121  cd Challenge10_
-  122  ls
-  123  CD Challenge10_Repo/
-  124  conda activate pyviz
-  125  code .
-  126  cd ..
-  127  ls
-  128  cd Fintech/
-  129  cd Challenge10_Repo/
-  130  conda activate pyviz
-  131  git add -A
-  132  git commit -m "Update the README file"
-  133  git push origin main
-  134  history 50 >terminal_history.txt
+  121  cd Challenge10_Repo/
+  122  conda activate pyviz
+  123  git add -A
+  124  git commit -m "Commit updates on plots and adjusted codes"
+  125  git push origin main
+  126   history 50 >terminal_history.txt
